@@ -1,0 +1,15 @@
+
+server:
+  port: 8082
+
+spring:
+  application:
+    name: service-oss
+
+aliyun:
+  oss:
+    file:
+      endpoint: oss-cn-hangzhou.aliyuncs.com
+      keyid: LTAI5t8SJNjRm7VGsUUXLTEb
+      keysecret: rg5EhokfmJFXMY8t2KKC2l6IL6NNGH
+      bucketname: katechian-bucket
